@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Color Detector</string>
+    <string name="title_activity_main4">Scanner</string>
+    <string name="action_settings">Sign Off</string>
+    <string name="title_activity_main5">MyBattery</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main3">Menu</string>
+    <string name="title_activity_main6">Activity</string>
+    <string name="title_activity_main7">MyTemperature</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="current_status">Current Status</string>
+    <string name="new_username">New UserName</string>
+    <string name="new_password">New Password</string>
+    <string name="status">Status:</string>
+    <string name="Reg_btn">Register</string>
+    <string name="or_en">OR</string>
+    <string name="Value_en">Value</string>
+    <string name="volt_en">Input Voltage from Solar panel</string>
+    <string name="charge_en">Battery Charging %</string>
+    <string name="charging_en">Charging</string>
+    <string name="checkBox">Remember Me</string>
+    <string name="about_us">About Us</string>
+    <string name="textView18">Color Detector App Version 1.0.0</string>
+    <string name="textView19">Color Detector is an application under Android platform that helps users scan for Color of Objects. It works with the hardware device - Raspberry Pi, Color Sensor, Temperature Sensor and ADS1115 Sensor. "</string>
+    <string name="textView20">For more information please contact us: Suong Luong, Kritish Sowamber, Dodiya Rutvij</string>
+
+</resources>

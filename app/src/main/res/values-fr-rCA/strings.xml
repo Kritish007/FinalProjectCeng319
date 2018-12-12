@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">se déconnecter</string>
+    <string name="username">Nom d utilisateur</string>
+    <string name="sign_in">se connecter</string>
+    <string name="password">mot de passe</string>
+    <string name="new_username">nouveau nom d utilisateu</string>
+    <string name="new_password">nouveau mot de passe</string>
+    <string name="status">statut:</string>
+    <string name="current_status">Actuel Statut</string>
+    <string name="or_en">Ou</string>
+    <string name="Reg_btn">Registre</string>
+    <string name="Value_en">valeur</string>
+    <string name="volt_en">Tension d entrée du panneau solaire</string>
+    <string name="charge_en">Batterie en charge %</string>
+    <string name="charging_en">Charge %</string>
+    <string name="about_us"> à propos de nous</string>
+    <string name="textView18">Version de l application Détecteur de couleur 1.0.0 </string>
+    <string name="checkBox">Souviens-toi de moi</string>
+    <string name="textView19">Color Detector est une application de la plate-forme Android qui aide les utilisateurs à rechercher la couleur des objets. Il fonctionne avec le périphérique matériel - Raspberry Pi, capteur de couleur, capteur de température et capteur ADS1115.</string>
+    <string name="textView20">Pour plus d informations s il vous plaît contactez-nous: Suong Luong, Sowamber Kritish, Dodiya Rutvij</string>
+    <string name="app_name">Detecteur de couleur</string>
+    <string name="title_activity_main4">Scanneur</string>
+    <string name="title_activity_main5">MaBatterie</string>
+    <string name="title_home">page d\'accueir</string>
+    <string name="title_dashboard">tableau de bord</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main3">Menu</string>
+    <string name="title_activity_main7">Mon temperature</string>
+    <string name="title_activity_main6">activite</string>
+
+</resources>
